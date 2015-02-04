@@ -1,4 +1,4 @@
-file { '/etc/fart':
+file { '/etc/farty':
   owner => root,
   group => root,
   mode  => 644,
